@@ -1,14 +1,14 @@
 {
-  "name": "My Recipe Book",
-  "short_name": "Recipes",
+  "name": "The Cocktail Book",
+  "short_name": "Cocktails",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#1A1714",
   "theme_color": "#1A1714",
-  "description": "My personal recipe and cocktail collection",
+  "description": "My personal cocktail recipe collection",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='80' fill='%231A1714'/><text x='256' y='360' font-size='300' text-anchor='middle'>📖</text></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='80' fill='%231A1714'/><text x='256' y='360' font-size='300' text-anchor='middle'>🍸</text></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
